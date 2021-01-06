@@ -1,6 +1,7 @@
 # NEAR Scoreboard
 
-Rewarding contributors!
+Rewarding contributors! Have a look:
+https://metaguild.github.io/scoreboard
 
 # About SourceCred Instances
 

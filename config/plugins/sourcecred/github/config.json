@@ -1,1 +1,1 @@
-{"repositories": ["sourcecred-test/example-github"]}
+{"repositories": ["near/nearcore", "near/near-wallet", "near/create-near-app", "near/core-contracts", "near/near-cli", "near/near-api-js", "near/docs", "near/nearup", "near/near-sdk-as", "near/near-sdk-rs", "near/NEPs", "near/near-explorer", "near/borsh", "near/rainbow-bridge", "near/rainbow-bridge-frontend", "near/near-web3-provider", "near/community"]}
